@@ -20,10 +20,6 @@ Esses dados são salvos no arquivo usuarios.db, permitindo que você mantenha as
 Como Usar o Projeto
 Executar o programa: Execute o arquivo crud.py no terminal:
 
-bash
-Copiar código
-python crud.py
-Navegar pelo Menu:
 
 Ao iniciar, você verá um menu com opções:
 Digite 1 para adicionar um novo usuário.
