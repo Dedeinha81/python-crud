@@ -35,5 +35,3 @@ Para atualizar ou deletar um usuário, você precisará do id do usuário, que a
 Estrutura do Projeto
 Arquivo crud.py: Contém todo o código do programa, incluindo a conexão com o banco de dados e as funções de adicionar, ler, atualizar e deletar usuários.
 Banco de Dados usuarios.db: Onde os dados dos usuários são salvos.
-Requisitos
-Python 3.x (SQLite já está incluído)
