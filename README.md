@@ -48,7 +48,11 @@ Digite 5 para sair.
 Exemplo de Uso:
 
 Para adicionar um usuário, escolha 1 e insira os dados como nome, email e idade.
+
 Para ver todos os usuários cadastrados, escolha 2.
+
 Para atualizar ou deletar um usuário, você precisará do id do usuário, que aparece na listagem de usuários.
+
 Estrutura do Projeto
+
 Arquivo crud.py: Contém todo o código do programa, incluindo a conexão com o banco de dados e as funções de adicionar, ler, atualizar e deletar usuários.
